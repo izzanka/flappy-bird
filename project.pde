@@ -30,7 +30,7 @@ void setup()
     b = new bird();
     p = new pillar[3];
     
-    data = loadJSONObject("data.json");
+    data = loadJSONObject("asset/data.json");
     
     mainTitle = data.getString("main_title");
     mainText = data.getString("main_text");
@@ -39,11 +39,11 @@ void setup()
     scoreText = data.getString("score_text");
     bestScoreText = data.getString("best_score_text");
 
-    sfx_point = new SoundFile(this, "sfx_point.wav");
-    sfx_wing = new SoundFile(this, "sfx_wing.wav");
+    sfx_point = new SoundFile(this, "asset/sfx_point.wav");
+    sfx_wing = new SoundFile(this, "asset/sfx_wing.wav");
         
-    bird = loadShape("bird.svg");
-    bg = loadImage("bg.png");
+    bird = loadShape("asset/bird.svg");
+    bg = loadImage("asset/bg.png");
     
     for(int i = 0; i < 3; i++){
       p[i] = new pillar(i);

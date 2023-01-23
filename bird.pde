@@ -27,18 +27,9 @@ class bird
   {
      yPos += ySpeed;
      
-     if(score > 5){
-       if(score != 0){
-          for(int i = 0; i < 3; i++){
-            p[i].xPos -= 4;
-         }
-       } 
-     }
      for(int i = 0; i < 3; i++){
-          p[i].xPos -= 3;
-       }
-   
-   
+        p[i].xPos -= 3;
+     }
   }
   
   void checkCollision()
