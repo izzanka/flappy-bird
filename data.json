@@ -1,0 +1,8 @@
+{
+	"main_title": "Flappy Bird",
+	"main_text": "Click to play!",
+	"game_over_title": "Game Over",
+	"game_over_text": "Click to play again!",
+	"score_text": "Score:",
+	"best_score_text": "Best Score:"
+}
