@@ -10,7 +10,7 @@ a flappy bird game clone
 
 ### Software
 
-* [Processing](https://processing.org)
+* [Processing (Java)](https://processing.org)
 
 ### Libraries
 
