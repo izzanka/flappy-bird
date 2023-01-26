@@ -19,4 +19,5 @@ a flappy bird game clone
 <!-- OVERVIEW -->
 ## Overview
 
-https://user-images.githubusercontent.com/59280562/213956601-9a78072e-28be-4a27-bb70-31cae7fd7b59.mp4
+![Screenshot (1092)](https://user-images.githubusercontent.com/59280562/214739511-31ec705b-4da3-4587-8781-0f42d8c9eb66.png)
+![Screenshot (1096)](https://user-images.githubusercontent.com/59280562/214739564-ef1fab3f-fd5b-4f3f-935d-c8f535fd598b.png)
