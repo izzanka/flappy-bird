@@ -16,6 +16,3 @@ a flappy bird game clone
 
 * [Sound](https://processing.org/reference/libraries)
 
-<!-- OVERVIEW -->
-## Overview
-
